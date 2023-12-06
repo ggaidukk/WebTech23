@@ -1,0 +1,14 @@
+th{
+    text-align: center;
+    padding: 1%;
+}
+td{
+    padding: 2%;
+}
+
+tr:nth-child(even){
+    background-color: lightgrey;
+}
+input{
+    margin-bottom: 10px;
+}

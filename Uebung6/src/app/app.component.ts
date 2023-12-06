@@ -13,5 +13,9 @@ import { FooterComponent } from './footer/footer.component';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
+onSort($event: Event) {
+throw new Error('Method not implemented.');
+}
   title = 'Uebung6';
+countries: any;
 }
